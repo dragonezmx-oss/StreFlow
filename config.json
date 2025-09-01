@@ -1,0 +1,16 @@
+{
+    "channels": [
+        {
+            "name": "Localhost",
+            "ip": "127.0.0.1",
+            "port": 5000
+        },
+        {
+            "name": "192.168.1.147",
+            "ip": "192.168.1.147",
+            "port": 5001
+        }
+    ],
+    "last_used": 1,
+    "mute": false
+}
